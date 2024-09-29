@@ -1,0 +1,1990 @@
+INFO 2024-09-28 21:21:08,366 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:21:43,049 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 21:21:43,840 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:23:30,386 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 21:23:31,266 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:26:01,575 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:26:02,542 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:26:48,780 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:26:49,786 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:27:58,462 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:27:59,340 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:28:54,159 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-28 21:28:55,115 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:30:30,132 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:30:30,980 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:31:51,367 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:02,871 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:05,456 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:07,321 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:08,348 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:20,571 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:22,835 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:27,770 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:32:39,277 basehttp "POST /auth/logout/ HTTP/1.1" 200 38
+INFO 2024-09-28 21:32:42,991 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+WARNING 2024-09-28 21:33:05,835 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:33:05,837 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+WARNING 2024-09-28 21:33:17,205 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:33:17,206 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+INFO 2024-09-28 21:33:42,853 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+WARNING 2024-09-28 21:33:50,840 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:33:50,841 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+INFO 2024-09-28 21:34:07,707 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:34:14,507 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:35:01,913 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-28 21:35:02,828 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 21:35:06,830 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:35:06,832 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+INFO 2024-09-28 21:35:48,182 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-28 21:35:49,094 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:35:51,100 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:35:58,166 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:36:02,367 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:37:15,736 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-28 21:37:16,601 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 21:37:20,526 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:37:20,527 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+INFO 2024-09-28 21:37:36,131 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:37:51,140 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+WARNING 2024-09-28 21:37:57,169 log Unauthorized: /auth/login/
+WARNING 2024-09-28 21:37:57,171 basehttp "POST /auth/login/ HTTP/1.1" 401 31
+INFO 2024-09-28 21:38:40,086 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:38:51,806 basehttp "POST /auth/login/ HTTP/1.1" 200 52
+INFO 2024-09-28 21:40:30,596 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 21:41:18,027 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:56:20,750 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 21:56:21,190 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:59:30,914 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:59:31,441 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:59:43,113 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:59:43,555 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 21:59:45,920 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 21:59:46,322 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:00:12,447 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:00:12,876 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:00:39,042 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:00:39,464 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:03:45,573 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:03:46,102 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:05:22,541 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:05:22,978 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:05:50,379 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:05:50,810 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 22:06:04,509 log Not Found: /items/1/
+WARNING 2024-09-28 22:06:04,511 basehttp "GET /items/1/ HTTP/1.1" 404 3129
+ERROR 2024-09-28 22:06:10,866 log Internal Server Error: /items/1
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\ims\items\views.py", line 36, in post
+    if cache.get(pk):
+       ^^^^^
+NameError: name 'cache' is not defined
+ERROR 2024-09-28 22:06:10,871 basehttp "GET /items/1 HTTP/1.1" 500 100788
+ERROR 2024-09-28 22:06:12,168 log Internal Server Error: /items/1
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\ims\items\views.py", line 36, in post
+    if cache.get(pk):
+       ^^^^^
+NameError: name 'cache' is not defined
+ERROR 2024-09-28 22:06:12,175 basehttp "GET /items/1 HTTP/1.1" 500 100514
+WARNING 2024-09-28 22:06:18,695 log Not Found: /items/1/
+WARNING 2024-09-28 22:06:18,696 basehttp "GET /items/1/ HTTP/1.1" 404 3129
+ERROR 2024-09-28 22:06:28,950 log Internal Server Error: /items/1
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\ims\items\views.py", line 36, in post
+    if cache.get(pk):
+       ^^^^^
+NameError: name 'cache' is not defined
+ERROR 2024-09-28 22:06:28,952 basehttp "GET /items/1 HTTP/1.1" 500 100788
+ERROR 2024-09-28 22:06:29,653 log Internal Server Error: /items/1
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\ims\items\views.py", line 36, in post
+    if cache.get(pk):
+       ^^^^^
+NameError: name 'cache' is not defined
+ERROR 2024-09-28 22:06:29,661 basehttp "GET /items/1 HTTP/1.1" 500 100514
+WARNING 2024-09-28 22:06:47,384 log Unauthorized: /items/
+WARNING 2024-09-28 22:06:47,385 basehttp "POST /items/ HTTP/1.1" 401 27
+ERROR 2024-09-28 22:06:51,858 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\ims\items\views.py", line 36, in post
+    if cache.get(pk):
+       ^^^^^
+NameError: name 'cache' is not defined
+ERROR 2024-09-28 22:06:51,865 basehttp "PUT /items/2 HTTP/1.1" 500 95976
+INFO 2024-09-28 22:08:15,534 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:08:16,069 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:10:35,881 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:10:36,327 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:11:30,785 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:11:31,258 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:11:37,651 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:11:38,102 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:11:42,535 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:11:42,954 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:11:57,493 basehttp "PUT /items/2 HTTP/1.1" 200 75
+ERROR 2024-09-28 22:12:09,586 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:09,590 basehttp "PUT /items/2 HTTP/1.1" 500 79677
+ERROR 2024-09-28 22:12:32,125 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:32,130 basehttp "PUT /items/2 HTTP/1.1" 500 79677
+ERROR 2024-09-28 22:12:33,367 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:33,372 basehttp "PUT /items/2 HTTP/1.1" 500 79677
+ERROR 2024-09-28 22:12:33,720 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:33,724 basehttp "PUT /items/2 HTTP/1.1" 500 79677
+ERROR 2024-09-28 22:12:34,051 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:34,054 basehttp "PUT /items/2 HTTP/1.1" 500 79677
+ERROR 2024-09-28 22:12:49,713 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:12:49,715 basehttp "GET /items/2 HTTP/1.1" 500 79668
+ERROR 2024-09-28 22:13:11,035 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:13:11,037 basehttp "GET /items/2 HTTP/1.1" 500 79668
+ERROR 2024-09-28 22:13:17,558 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:13:17,560 basehttp "GET /items/2 HTTP/1.1" 500 79668
+WARNING 2024-09-28 22:15:10,485 views object are not getting
+WARNING 2024-09-28 22:15:10,507 log Not Found: /items/8
+WARNING 2024-09-28 22:15:10,509 basehttp "GET /items/8 HTTP/1.1" 404 7982
+INFO 2024-09-28 22:15:10,553 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,557 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,557 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,558 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,558 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,560 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,561 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,561 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,562 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,563 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,565 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:15:10,603 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2024-09-28 22:15:11,485 views object are not getting
+WARNING 2024-09-28 22:15:11,489 log Not Found: /items/8
+WARNING 2024-09-28 22:15:11,490 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:11,661 views object are not getting
+WARNING 2024-09-28 22:15:11,665 log Not Found: /items/8
+WARNING 2024-09-28 22:15:11,666 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:11,836 views object are not getting
+WARNING 2024-09-28 22:15:11,841 log Not Found: /items/8
+WARNING 2024-09-28 22:15:11,842 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:11,989 views object are not getting
+WARNING 2024-09-28 22:15:11,994 log Not Found: /items/8
+WARNING 2024-09-28 22:15:11,994 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:12,166 views object are not getting
+WARNING 2024-09-28 22:15:12,170 log Not Found: /items/8
+WARNING 2024-09-28 22:15:12,171 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:12,328 views object are not getting
+WARNING 2024-09-28 22:15:12,333 log Not Found: /items/8
+WARNING 2024-09-28 22:15:12,333 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:12,492 views object are not getting
+WARNING 2024-09-28 22:15:12,494 log Not Found: /items/8
+WARNING 2024-09-28 22:15:12,495 basehttp "GET /items/8 HTTP/1.1" 404 7982
+WARNING 2024-09-28 22:15:12,681 views object are not getting
+WARNING 2024-09-28 22:15:12,686 log Not Found: /items/8
+WARNING 2024-09-28 22:15:12,686 basehttp "GET /items/8 HTTP/1.1" 404 7982
+ERROR 2024-09-28 22:15:16,486 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:16,489 basehttp "GET /items/2 HTTP/1.1" 500 84215
+ERROR 2024-09-28 22:15:18,868 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:18,870 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:18,986 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:18,986 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:20,327 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:20,329 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:20,446 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:20,446 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,038 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,040 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:21,159 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:21,159 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,217 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,220 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:21,332 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:21,332 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,415 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,416 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:21,533 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:21,534 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,595 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,598 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:21,717 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:21,718 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,771 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,774 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:21,890 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:21,891 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:21,954 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:21,960 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:22,075 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:22,075 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:22,158 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:22,163 basehttp "GET /items/2 HTTP/1.1" 500 84480
+WARNING 2024-09-28 22:15:22,278 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:15:22,279 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:15:22,377 log Internal Server Error: /items/2
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:22,383 basehttp "GET /items/2 HTTP/1.1" 500 84352
+INFO 2024-09-28 22:15:53,917 basehttp "GET /items/3 HTTP/1.1" 200 8083
+ERROR 2024-09-28 22:15:57,018 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:15:57,021 basehttp "GET /items/3 HTTP/1.1" 500 84373
+ERROR 2024-09-28 22:17:05,247 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:17:05,250 basehttp "GET /items/3 HTTP/1.1" 500 81424
+ERROR 2024-09-28 22:18:39,405 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:18:39,408 basehttp "GET /items/3 HTTP/1.1" 500 82035
+WARNING 2024-09-28 22:18:39,527 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:18:39,528 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+ERROR 2024-09-28 22:18:40,592 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 22:18:40,594 basehttp "GET /items/3 HTTP/1.1" 500 82035
+WARNING 2024-09-28 22:18:40,710 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:18:40,711 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+WARNING 2024-09-28 22:18:42,751 log Method Not Allowed: /items/
+WARNING 2024-09-28 22:18:42,751 basehttp "GET /items/ HTTP/1.1" 405 5519
+INFO 2024-09-28 22:20:03,933 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:20:04,435 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:20:28,573 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:20:29,042 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:20:44,975 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:20:45,422 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:22:59,102 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:22:59,551 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:23:33,971 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:23:34,383 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:23:54,292 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:23:54,763 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 22:24:04,757 log Unauthorized: /items/
+WARNING 2024-09-28 22:24:04,758 basehttp "POST /items/ HTTP/1.1" 401 27
+INFO 2024-09-28 22:24:26,537 views All Values are getting
+INFO 2024-09-28 22:24:26,550 basehttp "GET /items/post-list/ HTTP/1.1" 200 5809
+INFO 2024-09-28 22:24:31,594 views All Values are getting
+INFO 2024-09-28 22:24:31,597 basehttp "GET /items/post-list/ HTTP/1.1" 200 5809
+INFO 2024-09-28 22:24:38,156 views All Values are getting
+INFO 2024-09-28 22:24:38,161 basehttp "GET /items/post-list/ HTTP/1.1" 200 5809
+INFO 2024-09-28 22:24:53,515 views All Values are getting
+INFO 2024-09-28 22:24:53,518 basehttp "GET /items/post-list/ HTTP/1.1" 200 5809
+INFO 2024-09-28 22:24:53,766 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:24:53,782 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:24:53,782 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:24:53,784 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:24:53,785 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:24:53,787 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:24:53,798 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:24:53,804 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:24:53,804 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:24:53,822 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:24:53,843 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:24:53,849 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+WARNING 2024-09-28 22:24:53,913 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:24:53,914 basehttp "GET /favicon.ico HTTP/1.1" 404 2502
+INFO 2024-09-28 22:24:59,224 views All Values are getting
+INFO 2024-09-28 22:24:59,226 basehttp "GET /items/post-list/ HTTP/1.1" 200 5809
+INFO 2024-09-28 22:25:44,873 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:25:46,037 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:26:03,631 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:26:04,109 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:26:13,514 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:26:13,980 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:26:44,755 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\urls.py changed, reloading.
+INFO 2024-09-28 22:26:45,209 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:27:39,903 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:30:45,617 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:30:46,064 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:31:17,017 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:31:17,539 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:32:14,169 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:32:14,656 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 22:32:40,606 log Not Found: /
+WARNING 2024-09-28 22:32:40,607 basehttp "GET / HTTP/1.1" 404 4259
+INFO 2024-09-28 22:32:40,776 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:32:40,795 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:32:40,801 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:32:40,825 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:32:48,751 views object are not getting
+WARNING 2024-09-28 22:32:48,776 log Not Found: /items/1
+WARNING 2024-09-28 22:32:48,777 basehttp "GET /items/1 HTTP/1.1" 404 9637
+INFO 2024-09-28 22:32:57,167 views All Values are getting
+INFO 2024-09-28 22:32:57,173 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:33:03,887 views All Values are getting
+INFO 2024-09-28 22:33:03,891 basehttp "GET /items/post-list/ HTTP/1.1" 200 7014
+WARNING 2024-09-28 22:33:34,973 views object are not getting
+WARNING 2024-09-28 22:33:34,977 log Not Found: /items/1
+WARNING 2024-09-28 22:33:34,978 basehttp "GET /items/1 HTTP/1.1" 404 9637
+INFO 2024-09-28 22:33:35,011 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:33:35,011 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:33:35,075 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:33:35,076 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-09-28 22:33:35,172 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:33:35,173 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:34:47,699 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:34:48,219 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:35:10,973 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:35:11,517 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:35:41,437 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:35:41,968 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 22:35:49,988 views object are not getting
+WARNING 2024-09-28 22:35:50,010 log Not Found: /items/1
+WARNING 2024-09-28 22:35:50,011 basehttp "GET /items/1 HTTP/1.1" 404 9637
+INFO 2024-09-28 22:35:50,040 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:35:50,046 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:35:50,080 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:35:50,087 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-09-28 22:35:51,182 views object are not getting
+WARNING 2024-09-28 22:35:51,186 log Not Found: /items/1
+WARNING 2024-09-28 22:35:51,187 basehttp "GET /items/1 HTTP/1.1" 404 9637
+WARNING 2024-09-28 22:35:51,843 views object are not getting
+WARNING 2024-09-28 22:35:51,847 log Not Found: /items/1
+WARNING 2024-09-28 22:35:51,848 basehttp "GET /items/1 HTTP/1.1" 404 9637
+INFO 2024-09-28 22:35:55,144 views All Values are getting
+INFO 2024-09-28 22:35:55,148 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:35:57,947 views All Values are getting
+INFO 2024-09-28 22:35:57,950 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:35:58,195 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:35:58,197 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:35:58,200 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:35:58,203 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:35:58,204 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:35:58,207 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:35:58,207 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:35:58,210 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:35:58,210 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:35:58,211 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:35:58,216 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:35:58,220 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:35:58,221 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:35:58,226 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:35:58,239 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:35:58,240 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:35:58,286 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:35:58,286 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:36:01,107 views All Values are getting
+INFO 2024-09-28 22:36:01,111 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:01,135 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:36:01,144 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:36:01,145 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:36:01,145 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:36:01,148 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:36:01,149 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:36:01,149 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:36:01,151 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:36:01,153 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:36:01,154 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:36:01,154 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:36:01,154 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:36:01,155 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:36:01,171 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:36:01,182 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:36:01,183 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:36:01,232 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:36:01,232 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:36:02,342 views All Values are getting
+INFO 2024-09-28 22:36:02,345 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:02,370 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:36:02,379 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:36:02,379 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:36:02,379 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:36:02,379 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:36:02,380 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:36:02,382 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:36:02,387 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:36:02,387 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:36:02,388 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:36:02,388 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:36:02,388 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:36:02,388 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:36:02,403 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:36:02,413 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:36:02,413 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:36:02,462 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:36:02,463 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:36:06,205 views All Values are getting
+INFO 2024-09-28 22:36:06,209 basehttp "GET /items/post-list/ HTTP/1.1" 200 7014
+INFO 2024-09-28 22:36:07,339 views All Values are getting
+INFO 2024-09-28 22:36:07,342 basehttp "GET /items/post-list/ HTTP/1.1" 200 7014
+INFO 2024-09-28 22:36:10,572 views All Values are getting
+INFO 2024-09-28 22:36:10,574 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:14,613 views All Values are getting
+INFO 2024-09-28 22:36:14,618 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:15,285 views All Values are getting
+INFO 2024-09-28 22:36:15,288 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:36:15,707 views All Values are getting
+INFO 2024-09-28 22:36:15,711 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:15,949 views All Values are getting
+INFO 2024-09-28 22:36:15,952 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:16,163 views All Values are getting
+INFO 2024-09-28 22:36:16,167 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:16,441 views All Values are getting
+INFO 2024-09-28 22:36:16,445 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:16,733 views All Values are getting
+INFO 2024-09-28 22:36:16,738 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:17,094 views All Values are getting
+INFO 2024-09-28 22:36:17,097 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:17,288 views All Values are getting
+INFO 2024-09-28 22:36:17,291 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:17,470 views All Values are getting
+INFO 2024-09-28 22:36:17,473 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:17,815 views All Values are getting
+INFO 2024-09-28 22:36:17,820 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,007 views All Values are getting
+INFO 2024-09-28 22:36:18,010 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,207 views All Values are getting
+INFO 2024-09-28 22:36:18,211 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,407 views All Values are getting
+INFO 2024-09-28 22:36:18,410 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,609 views All Values are getting
+INFO 2024-09-28 22:36:18,614 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,785 views All Values are getting
+INFO 2024-09-28 22:36:18,789 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:18,978 views All Values are getting
+INFO 2024-09-28 22:36:18,981 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:19,167 views All Values are getting
+INFO 2024-09-28 22:36:19,170 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:19,368 views All Values are getting
+INFO 2024-09-28 22:36:19,372 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:21,858 views All Values are getting
+INFO 2024-09-28 22:36:21,861 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:21,885 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:36:21,885 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:36:21,885 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:36:21,886 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:36:21,919 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:36:21,922 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:36:21,926 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:36:21,928 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:36:21,929 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:36:21,929 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:36:21,929 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:36:21,930 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:36:21,931 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:36:21,935 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:36:21,943 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:36:21,944 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:36:21,990 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:36:21,991 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:36:24,842 views All Values are getting
+INFO 2024-09-28 22:36:24,845 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:25,627 views All Values are getting
+INFO 2024-09-28 22:36:25,631 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:25,952 views All Values are getting
+INFO 2024-09-28 22:36:25,955 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:26,243 views All Values are getting
+INFO 2024-09-28 22:36:26,246 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:26,598 views All Values are getting
+INFO 2024-09-28 22:36:26,601 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:27,064 views All Values are getting
+INFO 2024-09-28 22:36:27,068 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:27,536 views All Values are getting
+INFO 2024-09-28 22:36:27,539 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:27,890 views All Values are getting
+INFO 2024-09-28 22:36:27,893 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:28,453 views All Values are getting
+INFO 2024-09-28 22:36:28,456 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:28,673 views All Values are getting
+INFO 2024-09-28 22:36:28,676 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:28,870 views All Values are getting
+INFO 2024-09-28 22:36:28,874 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:29,072 views All Values are getting
+INFO 2024-09-28 22:36:29,075 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:29,784 views All Values are getting
+INFO 2024-09-28 22:36:29,786 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:30,008 views All Values are getting
+INFO 2024-09-28 22:36:30,014 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:36:30,226 views All Values are getting
+INFO 2024-09-28 22:36:30,229 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:37:04,112 views All Values are getting
+INFO 2024-09-28 22:37:04,116 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:37:13,385 views All Values are getting
+INFO 2024-09-28 22:37:13,388 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:38:21,524 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:38:22,078 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:38:28,680 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:38:29,161 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:38:30,995 views All Values are getting
+INFO 2024-09-28 22:38:31,013 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:38:31,065 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:38:31,066 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:38:31,095 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:38:31,095 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:38:37,970 views All Values are getting
+INFO 2024-09-28 22:38:37,975 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:38:56,768 basehttp "GET /__debug__/render_panel/?store_id=5f3bd281dc7b460e9215a76e188d4010&panel_id=CachePanel HTTP/1.1" 200 4263
+INFO 2024-09-28 22:39:04,305 views All Values are getting
+INFO 2024-09-28 22:39:04,308 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:39:07,996 basehttp "GET /__debug__/render_panel/?store_id=52ffa5fb401e493287faf33c751445b5&panel_id=CachePanel HTTP/1.1" 200 6908
+INFO 2024-09-28 22:39:25,945 views All Values are getting
+INFO 2024-09-28 22:39:25,948 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:39:26,264 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:39:26,267 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:39:26,269 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:39:26,273 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:39:26,275 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:39:26,275 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:39:26,278 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:39:26,281 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:39:26,283 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:39:26,285 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:39:26,288 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:39:26,291 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:39:26,293 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:39:26,304 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:39:26,312 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:39:26,315 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:39:26,365 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:39:26,367 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:39:27,830 basehttp "GET /__debug__/render_panel/?store_id=d788436d3cb54eef8c041219cc483915&panel_id=CachePanel HTTP/1.1" 200 6908
+INFO 2024-09-28 22:39:32,533 views All Values are getting
+INFO 2024-09-28 22:39:32,536 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:39:39,047 views All Values are getting
+INFO 2024-09-28 22:39:39,052 basehttp "GET /items/post-list/ HTTP/1.1" 200 7463
+INFO 2024-09-28 22:39:39,104 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:39:39,112 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:39:39,113 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:39:39,113 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:39:39,114 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:39:39,114 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:39:39,119 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:39:39,120 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:39:39,121 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:39:39,122 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:39:39,122 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:39:39,122 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:39:39,123 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:39:39,147 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:39:39,164 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:39:39,166 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:39:39,263 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:39:39,263 basehttp "GET /favicon.ico HTTP/1.1" 404 4310
+INFO 2024-09-28 22:39:40,924 basehttp "GET /__debug__/render_panel/?store_id=9dfbf17754984de8bb68385940198fee&panel_id=CachePanel HTTP/1.1" 200 4263
+INFO 2024-09-28 22:39:57,155 views All Values are getting
+INFO 2024-09-28 22:39:57,162 basehttp "GET /items/post-list/ HTTP/1.1" 200 7464
+INFO 2024-09-28 22:39:58,502 basehttp "GET /__debug__/render_panel/?store_id=4bccbaba1d77439aa5111c0a2f91e13d&panel_id=CachePanel HTTP/1.1" 200 6908
+INFO 2024-09-28 22:41:02,402 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:02,935 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:17,458 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:17,909 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:28,354 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:28,805 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:34,312 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:34,848 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:38,293 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:38,746 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:43,057 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:43,500 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:46,907 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:47,362 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:50,771 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:51,255 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:54,690 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:55,162 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:41:57,526 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:41:57,995 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:42:01,451 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:42:01,902 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:42:05,244 views All Values are getting
+INFO 2024-09-28 22:42:05,274 basehttp "GET /items/post-list/ HTTP/1.1" 200 13691
+INFO 2024-09-28 22:42:05,313 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:42:05,314 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:42:05,319 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:42:05,326 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:42:11,099 views All Values are getting
+INFO 2024-09-28 22:42:11,107 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:13,989 basehttp "GET /__debug__/render_panel/?store_id=448b61bff5d248b995ccaffc2a647db5&panel_id=SQLPanel HTTP/1.1" 200 115
+INFO 2024-09-28 22:42:16,070 views All Values are getting
+INFO 2024-09-28 22:42:16,078 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:17,000 views All Values are getting
+INFO 2024-09-28 22:42:17,012 basehttp "GET /items/post-list/ HTTP/1.1" 200 13693
+INFO 2024-09-28 22:42:17,647 views All Values are getting
+INFO 2024-09-28 22:42:17,658 basehttp "GET /items/post-list/ HTTP/1.1" 200 13693
+INFO 2024-09-28 22:42:17,842 views All Values are getting
+INFO 2024-09-28 22:42:17,853 basehttp "GET /items/post-list/ HTTP/1.1" 200 13693
+INFO 2024-09-28 22:42:18,036 views All Values are getting
+INFO 2024-09-28 22:42:18,046 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:18,207 views All Values are getting
+INFO 2024-09-28 22:42:18,217 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:18,595 views All Values are getting
+INFO 2024-09-28 22:42:18,604 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:18,805 views All Values are getting
+INFO 2024-09-28 22:42:18,814 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:20,010 views All Values are getting
+INFO 2024-09-28 22:42:20,018 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:20,323 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:42:20,326 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:42:20,329 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:42:20,330 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:42:20,333 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:42:20,333 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:42:20,337 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:42:20,337 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:42:20,342 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:42:20,356 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:42:20,361 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:42:20,366 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:42:20,366 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:42:20,375 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:42:20,385 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:42:20,385 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:42:20,431 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:42:20,431 basehttp "GET /favicon.ico HTTP/1.1" 404 10510
+INFO 2024-09-28 22:42:28,806 basehttp "GET /__debug__/render_panel/?store_id=e9e8e02fc1194325a9d2e1d7e1a94e92&panel_id=CachePanel HTTP/1.1" 200 4263
+INFO 2024-09-28 22:42:30,764 views All Values are getting
+INFO 2024-09-28 22:42:30,780 basehttp "GET /items/post-list/ HTTP/1.1" 200 13690
+INFO 2024-09-28 22:42:37,554 views All Values are getting
+INFO 2024-09-28 22:42:37,564 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:38,583 views All Values are getting
+INFO 2024-09-28 22:42:38,591 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:39,177 views All Values are getting
+INFO 2024-09-28 22:42:39,184 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:39,635 views All Values are getting
+INFO 2024-09-28 22:42:39,643 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:39,832 views All Values are getting
+INFO 2024-09-28 22:42:39,840 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:40,001 views All Values are getting
+INFO 2024-09-28 22:42:40,012 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:40,166 views All Values are getting
+INFO 2024-09-28 22:42:40,173 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:40,342 views All Values are getting
+INFO 2024-09-28 22:42:40,351 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:40,528 views All Values are getting
+INFO 2024-09-28 22:42:40,539 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:40,736 views All Values are getting
+INFO 2024-09-28 22:42:40,743 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:41,356 views All Values are getting
+INFO 2024-09-28 22:42:41,367 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:41,547 views All Values are getting
+INFO 2024-09-28 22:42:41,556 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:41,873 views All Values are getting
+INFO 2024-09-28 22:42:41,882 basehttp "GET /items/post-list/ HTTP/1.1" 200 13243
+INFO 2024-09-28 22:42:47,699 views All Values are getting
+INFO 2024-09-28 22:42:47,705 basehttp "GET /items/post-list/ HTTP/1.1" 200 13692
+INFO 2024-09-28 22:42:54,275 basehttp "GET /__debug__/render_panel/?store_id=6efff2d509fb46cc9f29bbef4710d35b&panel_id=HeadersPanel HTTP/1.1" 200 3999
+INFO 2024-09-28 22:42:56,219 basehttp "GET /__debug__/render_panel/?store_id=6efff2d509fb46cc9f29bbef4710d35b&panel_id=SettingsPanel HTTP/1.1" 200 27338
+INFO 2024-09-28 22:42:59,567 basehttp "GET /__debug__/render_panel/?store_id=6efff2d509fb46cc9f29bbef4710d35b&panel_id=VersionsPanel HTTP/1.1" 200 750
+INFO 2024-09-28 22:43:03,628 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-28 22:43:04,219 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:43:04,555 views All Values are getting
+INFO 2024-09-28 22:43:04,581 basehttp "GET /items/post-list/ HTTP/1.1" 200 12993
+INFO 2024-09-28 22:43:11,403 views All Values are getting
+INFO 2024-09-28 22:43:11,411 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:14,514 views All Values are getting
+INFO 2024-09-28 22:43:14,520 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:15,162 views All Values are getting
+INFO 2024-09-28 22:43:15,169 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:15,662 views All Values are getting
+INFO 2024-09-28 22:43:15,669 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:15,831 views All Values are getting
+INFO 2024-09-28 22:43:15,839 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:16,021 views All Values are getting
+INFO 2024-09-28 22:43:16,027 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:16,639 views All Values are getting
+INFO 2024-09-28 22:43:16,646 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:17,234 views All Values are getting
+INFO 2024-09-28 22:43:17,241 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:18,609 views All Values are getting
+INFO 2024-09-28 22:43:18,614 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:18,848 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 22:43:18,850 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 22:43:18,853 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 22:43:18,853 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 22:43:18,856 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 22:43:18,856 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 22:43:18,862 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 22:43:18,862 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 22:43:18,862 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 22:43:18,866 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 22:43:18,868 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 22:43:18,874 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 22:43:18,878 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 22:43:18,887 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 22:43:18,894 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 22:43:18,896 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 22:43:18,944 log Not Found: /favicon.ico
+WARNING 2024-09-28 22:43:18,945 basehttp "GET /favicon.ico HTTP/1.1" 404 9811
+INFO 2024-09-28 22:43:20,799 views All Values are getting
+INFO 2024-09-28 22:43:20,805 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:20,949 views All Values are getting
+INFO 2024-09-28 22:43:20,956 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:21,113 views All Values are getting
+INFO 2024-09-28 22:43:21,120 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:21,270 views All Values are getting
+INFO 2024-09-28 22:43:21,278 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:21,450 views All Values are getting
+INFO 2024-09-28 22:43:21,457 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:21,621 views All Values are getting
+INFO 2024-09-28 22:43:21,629 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:21,797 views All Values are getting
+INFO 2024-09-28 22:43:21,804 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:22,014 views All Values are getting
+INFO 2024-09-28 22:43:22,021 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:23,782 basehttp "GET /__debug__/render_panel/?store_id=72a59148f83042afb499dc68675e344d&panel_id=SQLPanel HTTP/1.1" 200 115
+INFO 2024-09-28 22:43:26,222 views All Values are getting
+INFO 2024-09-28 22:43:26,230 basehttp "GET /items/post-list/ HTTP/1.1" 200 12991
+INFO 2024-09-28 22:43:27,579 basehttp "GET /__debug__/render_panel/?store_id=67a93a24404e49d8ac4015b7ef6a4693&panel_id=SQLPanel HTTP/1.1" 200 10268
+INFO 2024-09-28 22:43:31,061 basehttp "GET /__debug__/render_panel/?store_id=67a93a24404e49d8ac4015b7ef6a4693&panel_id=CachePanel HTTP/1.1" 200 6907
+INFO 2024-09-28 22:43:34,869 views All Values are getting
+INFO 2024-09-28 22:43:34,878 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:36,443 views All Values are getting
+INFO 2024-09-28 22:43:36,451 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:37,093 views All Values are getting
+INFO 2024-09-28 22:43:37,100 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-28 22:43:38,196 basehttp "GET /__debug__/render_panel/?store_id=f47133a52ce34390a4de8008919a3b04&panel_id=CachePanel HTTP/1.1" 200 4263
+INFO 2024-09-28 22:43:53,485 views All Values are getting
+INFO 2024-09-28 22:43:53,493 basehttp "GET /items/post-list/ HTTP/1.1" 200 13007
+INFO 2024-09-28 22:43:56,201 basehttp "GET /__debug__/render_panel/?store_id=c58f06399a294ad38a97316828e66545&panel_id=TemplatesPanel HTTP/1.1" 200 11465
+INFO 2024-09-28 22:47:02,410 basehttp "DELETE /items/2 HTTP/1.1" 204 0
+INFO 2024-09-28 22:47:14,303 views All Values are getting
+INFO 2024-09-28 22:47:14,313 basehttp "GET /items/post-list/ HTTP/1.1" 200 12806
+INFO 2024-09-28 22:47:14,352 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:47:14,357 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:47:14,426 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:47:14,429 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-09-28 22:47:59,283 views object are not getting
+WARNING 2024-09-28 22:47:59,293 log Not Found: /items/2
+WARNING 2024-09-28 22:47:59,294 basehttp "PUT /items/2 HTTP/1.1" 404 26
+INFO 2024-09-28 22:48:12,134 basehttp "PUT /items/3 HTTP/1.1" 200 75
+WARNING 2024-09-28 22:48:38,144 views object are not getting
+WARNING 2024-09-28 22:48:38,149 log Not Found: /items/2
+WARNING 2024-09-28 22:48:38,150 basehttp "GET /items/2 HTTP/1.1" 404 26
+INFO 2024-09-28 22:48:41,780 basehttp "GET /items/3 HTTP/1.1" 200 75
+WARNING 2024-09-28 22:48:48,457 views object are not getting
+WARNING 2024-09-28 22:48:48,462 log Not Found: /items/2
+WARNING 2024-09-28 22:48:48,463 basehttp "PUT /items/2 HTTP/1.1" 404 26
+INFO 2024-09-28 22:48:53,049 basehttp "PUT /items/3 HTTP/1.1" 200 75
+WARNING 2024-09-28 22:49:16,921 log Unauthorized: /items/
+WARNING 2024-09-28 22:49:16,922 basehttp "POST /items/ HTTP/1.1" 401 27
+WARNING 2024-09-28 22:49:28,874 log Bad Request: /items/
+WARNING 2024-09-28 22:49:28,875 basehttp "POST /items/ HTTP/1.1" 400 31
+INFO 2024-09-28 22:49:50,599 views All Values are getting
+INFO 2024-09-28 22:49:50,606 basehttp "GET /items/post-list/ HTTP/1.1" 200 12804
+INFO 2024-09-28 22:49:50,648 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:49:50,648 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:49:50,683 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:49:50,684 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:49:58,104 basehttp "POST /items/ HTTP/1.1" 200 75
+WARNING 2024-09-28 22:50:23,126 log Bad Request: /items/
+WARNING 2024-09-28 22:50:23,127 basehttp "POST /items/ HTTP/1.1" 400 31
+INFO 2024-09-28 22:51:44,912 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:51:45,456 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-28 22:51:52,979 views object are not getting
+WARNING 2024-09-28 22:51:52,995 log Not Found: /items/1
+WARNING 2024-09-28 22:51:52,996 basehttp "DELETE /items/1 HTTP/1.1" 404 26
+INFO 2024-09-28 22:51:59,430 views All Values are getting
+INFO 2024-09-28 22:51:59,454 basehttp "GET /items/post-list/ HTTP/1.1" 200 12992
+INFO 2024-09-28 22:52:24,148 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:52:24,672 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:52:33,373 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:52:33,875 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:52:36,803 basehttp "DELETE /items/3 HTTP/1.1" 204 22
+INFO 2024-09-28 22:57:51,228 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:57:51,695 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:57:54,423 views All Values are getting
+INFO 2024-09-28 22:57:54,447 basehttp "GET /items/post-list/ HTTP/1.1" 200 12806
+INFO 2024-09-28 22:57:54,510 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 22:57:54,511 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:57:54,596 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 22:57:54,597 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-09-28 22:58:01,028 log Not Found: /items/5/
+WARNING 2024-09-28 22:58:01,029 basehttp "GET /items/5/ HTTP/1.1" 404 10439
+INFO 2024-09-28 22:58:07,322 basehttp "GET /items/5 HTTP/1.1" 200 15265
+INFO 2024-09-28 22:58:19,442 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\urls.py changed, reloading.
+INFO 2024-09-28 22:58:19,949 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:58:21,173 basehttp "GET /items/5 HTTP/1.1" 301 0
+INFO 2024-09-28 22:58:21,328 basehttp "GET /items/5/ HTTP/1.1" 200 15274
+INFO 2024-09-28 22:58:26,997 basehttp "GET /items/5/ HTTP/1.1" 200 15273
+INFO 2024-09-28 22:58:33,638 basehttp "GET /__debug__/render_panel/?store_id=e9b4dd6350394ccc8c99d046846d3d71&panel_id=CachePanel HTTP/1.1" 200 4270
+INFO 2024-09-28 22:58:37,881 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:39,773 basehttp "GET /__debug__/render_panel/?store_id=5e0bd7f430cf4dbdaec0aa1d8e4a7880&panel_id=CachePanel HTTP/1.1" 200 4270
+INFO 2024-09-28 22:58:41,807 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:42,600 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:42,791 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:42,973 basehttp "GET /items/5/ HTTP/1.1" 200 15273
+INFO 2024-09-28 22:58:43,173 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:44,251 basehttp "GET /__debug__/render_panel/?store_id=8403b045817646b8a5e2330b706ef11e&panel_id=CachePanel HTTP/1.1" 200 4270
+INFO 2024-09-28 22:58:51,466 basehttp "GET /items/5/ HTTP/1.1" 200 15272
+INFO 2024-09-28 22:58:53,612 basehttp "GET /__debug__/render_panel/?store_id=7182116cc56a49f3a8d85b04ad0da966&panel_id=CachePanel HTTP/1.1" 200 4270
+INFO 2024-09-28 22:59:55,044 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:59:55,554 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 22:59:59,003 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 22:59:59,525 autoreload Watching for file changes with StatReloader
+ERROR 2024-09-28 23:00:00,414 log Internal Server Error: /items/5/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:00:00,426 basehttp "GET /items/5/ HTTP/1.1" 500 90376
+ERROR 2024-09-28 23:00:02,402 log Internal Server Error: /items/5/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:00:02,414 basehttp "GET /items/5/ HTTP/1.1" 500 90375
+INFO 2024-09-28 23:00:31,077 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:00:31,616 autoreload Watching for file changes with StatReloader
+ERROR 2024-09-28 23:00:32,235 log Internal Server Error: /items/5/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:00:32,251 basehttp "GET /items/5/ HTTP/1.1" 500 90376
+INFO 2024-09-28 23:02:28,375 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:02:28,886 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:02:31,637 basehttp "GET /items/3 HTTP/1.1" 301 0
+ERROR 2024-09-28 23:02:31,748 log Internal Server Error: /items/3/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:02:31,760 basehttp "GET /items/3/ HTTP/1.1" 500 87849
+INFO 2024-09-28 23:02:52,927 basehttp "GET /items/4 HTTP/1.1" 301 0
+ERROR 2024-09-28 23:02:52,961 log Internal Server Error: /items/4/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:02:52,972 basehttp "GET /items/4/ HTTP/1.1" 500 87848
+INFO 2024-09-28 23:03:14,440 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:03:14,954 autoreload Watching for file changes with StatReloader
+ERROR 2024-09-28 23:03:21,692 log Internal Server Error: /items/5/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:03:21,707 basehttp "GET /items/5/ HTTP/1.1" 500 90376
+INFO 2024-09-28 23:03:21,734 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 23:03:21,738 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 23:03:21,762 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 23:03:21,781 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+ERROR 2024-09-28 23:03:27,927 log Internal Server Error: /items/5/
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected a `Response`, `HttpResponse` or `StreamingHttpResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2024-09-28 23:03:27,933 basehttp "GET /items/5/ HTTP/1.1" 500 90375
+INFO 2024-09-28 23:04:05,295 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:04:05,772 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:04:07,710 basehttp "GET /items/5/ HTTP/1.1" 200 15275
+INFO 2024-09-28 23:04:10,470 basehttp "GET /items/5/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:11,120 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:11,337 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:11,756 basehttp "GET /items/5/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:11,932 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:12,090 basehttp "GET /items/5/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:12,243 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:12,424 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:12,599 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:12,798 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:15,457 basehttp "GET /items/5/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:16,124 basehttp "GET /items/5/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:16,765 basehttp "GET /items/5/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:18,018 basehttp "GET /__debug__/render_panel/?store_id=7c13ac6dd4fa4722a67a4c3bd66b6466&panel_id=CachePanel HTTP/1.1" 200 4233
+INFO 2024-09-28 23:04:29,800 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:31,659 basehttp "GET /__debug__/render_panel/?store_id=f250256b3c8c421b862e3c9a2ffe39e7&panel_id=CachePanel HTTP/1.1" 200 4248
+INFO 2024-09-28 23:04:33,661 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:34,927 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:35,582 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:35,773 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:36,322 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:36,522 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:36,756 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:38,402 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:38,616 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:40,043 basehttp "GET /items/4/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:04:41,265 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:04:41,558 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-28 23:04:41,560 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-28 23:04:41,561 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-28 23:04:41,565 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-28 23:04:41,567 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-28 23:04:41,569 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-28 23:04:41,571 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-28 23:04:41,573 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-28 23:04:41,575 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-28 23:04:41,583 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-28 23:04:41,590 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-28 23:04:41,593 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-28 23:04:41,595 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-28 23:04:41,599 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-28 23:04:41,612 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-28 23:04:41,612 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-28 23:04:41,666 log Not Found: /favicon.ico
+WARNING 2024-09-28 23:04:41,667 basehttp "GET /favicon.ico HTTP/1.1" 404 9811
+INFO 2024-09-28 23:04:45,137 basehttp "GET /__debug__/render_panel/?store_id=6fe22151a4434b7da9d8643a3170288b&panel_id=CachePanel HTTP/1.1" 200 4248
+INFO 2024-09-28 23:04:50,270 basehttp "GET /items/4/ HTTP/1.1" 200 14828
+INFO 2024-09-28 23:04:51,925 basehttp "GET /items/4/ HTTP/1.1" 200 14828
+INFO 2024-09-28 23:04:55,157 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+ERROR 2024-09-28 23:05:19,870 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/items/3/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-09-28 23:05:19,878 basehttp "PUT /items/3 HTTP/1.1" 500 70956
+ERROR 2024-09-28 23:05:45,940 log Internal Server Error: /items/4
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/items/4/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-09-28 23:05:45,946 basehttp "PUT /items/4 HTTP/1.1" 500 70956
+ERROR 2024-09-28 23:05:48,615 log Internal Server Error: /items/4
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to 127.0.0.1:8000/items/4/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-09-28 23:05:48,622 basehttp "PUT /items/4 HTTP/1.1" 500 70956
+INFO 2024-09-28 23:05:57,309 basehttp "PUT /items/5/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:06:07,553 basehttp "GET /items/4/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:06:16,620 basehttp "POST /items/ HTTP/1.1" 200 75
+WARNING 2024-09-28 23:06:19,552 log Bad Request: /items/
+WARNING 2024-09-28 23:06:19,554 basehttp "POST /items/ HTTP/1.1" 400 31
+ERROR 2024-09-28 23:06:26,659 log Internal Server Error: /items/3
+Traceback (most recent call last):
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mithu\Desktop\imsystem\venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via DELETE, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining DELETE data. Change your form to point to 127.0.0.1:8000/items/3/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2024-09-28 23:06:26,664 basehttp "DELETE /items/3 HTTP/1.1" 500 70992
+INFO 2024-09-28 23:06:32,197 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:34,131 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:35,173 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:35,980 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:37,571 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:38,577 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:39,803 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:06:56,385 views All Values are getting
+INFO 2024-09-28 23:06:56,392 basehttp "GET /items/post-list/ HTTP/1.1" 200 12805
+INFO 2024-09-28 23:06:58,461 views All Values are getting
+INFO 2024-09-28 23:06:58,473 basehttp "GET /items/post-list/ HTTP/1.1" 200 12807
+INFO 2024-09-28 23:06:58,987 views All Values are getting
+INFO 2024-09-28 23:06:58,996 basehttp "GET /items/post-list/ HTTP/1.1" 200 12807
+INFO 2024-09-28 23:07:01,548 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:07:02,105 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:07:02,882 basehttp "DELETE /items/3/ HTTP/1.1" 204 22
+INFO 2024-09-28 23:07:50,195 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:07:50,672 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:08:01,625 basehttp "GET /items/4/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:07,277 basehttp "GET /items/5/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:09,562 basehttp "GET /items/4/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:11,666 basehttp "GET /items/1/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:14,189 basehttp "GET /items/2/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:16,339 basehttp "GET /items/6/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:08:34,906 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-28 23:08:38,821 basehttp "GET /items/1/ HTTP/1.1" 200 15276
+INFO 2024-09-28 23:08:38,861 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-28 23:08:38,862 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-28 23:08:38,888 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-28 23:08:38,890 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-28 23:09:23,851 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:09:24,338 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:09:31,208 basehttp "GET /items/6/ HTTP/1.1" 200 75
+WARNING 2024-09-28 23:09:36,065 views object are not getting
+WARNING 2024-09-28 23:09:36,077 log Not Found: /items/1/
+WARNING 2024-09-28 23:09:36,079 basehttp "GET /items/1/ HTTP/1.1" 404 26
+WARNING 2024-09-28 23:09:38,893 views object are not getting
+WARNING 2024-09-28 23:09:38,902 log Not Found: /items/2/
+WARNING 2024-09-28 23:09:38,904 basehttp "GET /items/2/ HTTP/1.1" 404 26
+WARNING 2024-09-28 23:09:45,500 views object are not getting
+WARNING 2024-09-28 23:09:45,510 log Not Found: /items/3/
+WARNING 2024-09-28 23:09:45,512 basehttp "DELETE /items/3/ HTTP/1.1" 404 26
+INFO 2024-09-28 23:10:00,027 views All Values are getting
+INFO 2024-09-28 23:10:00,048 basehttp "GET /items/post-list/ HTTP/1.1" 200 12805
+WARNING 2024-09-28 23:10:03,309 views object are not getting
+WARNING 2024-09-28 23:10:03,326 log Not Found: /items/1/
+WARNING 2024-09-28 23:10:03,327 basehttp "GET /items/1/ HTTP/1.1" 404 15172
+INFO 2024-09-28 23:10:10,248 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:10:17,823 basehttp "GET /items/6/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:10:20,448 basehttp "GET /__debug__/render_panel/?store_id=da4dbc2e48234551b49474dd68fe7090&panel_id=CachePanel HTTP/1.1" 200 6759
+INFO 2024-09-28 23:10:28,002 basehttp "GET /items/6/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:10:28,805 basehttp "GET /items/6/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:10:28,990 basehttp "GET /items/6/ HTTP/1.1" 200 15273
+INFO 2024-09-28 23:10:29,162 basehttp "GET /items/6/ HTTP/1.1" 200 15273
+INFO 2024-09-28 23:10:29,325 basehttp "GET /items/6/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:10:29,521 basehttp "GET /items/6/ HTTP/1.1" 200 15273
+WARNING 2024-09-28 23:10:33,533 views object are not getting
+WARNING 2024-09-28 23:10:33,545 log Not Found: /items/7/
+WARNING 2024-09-28 23:10:33,546 basehttp "GET /items/7/ HTTP/1.1" 404 15172
+INFO 2024-09-28 23:10:43,233 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:10:43,741 autoreload Watching for file changes with StatReloader
+INFO 2024-09-28 23:10:52,680 basehttp "POST /items/ HTTP/1.1" 200 75
+INFO 2024-09-28 23:11:00,518 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:11:03,530 basehttp "GET /__debug__/render_panel/?store_id=df28b2365ca247a7b2c41338c26acefb&panel_id=SQLPanel HTTP/1.1" 200 7804
+INFO 2024-09-28 23:11:07,207 basehttp "GET /__debug__/render_panel/?store_id=df28b2365ca247a7b2c41338c26acefb&panel_id=CachePanel HTTP/1.1" 200 6776
+INFO 2024-09-28 23:11:13,744 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:11:15,722 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:11:20,912 basehttp "GET /__debug__/render_panel/?store_id=2a21967fc57840d88d017b42489733f6&panel_id=CachePanel HTTP/1.1" 200 6763
+INFO 2024-09-28 23:11:27,231 basehttp "GET /__debug__/render_panel/?store_id=2a21967fc57840d88d017b42489733f6&panel_id=SQLPanel HTTP/1.1" 200 7779
+INFO 2024-09-28 23:11:31,739 basehttp "POST /__debug__/sql_select/ HTTP/1.1" 200 1539
+INFO 2024-09-28 23:11:41,674 basehttp "GET /items/7/ HTTP/1.1" 200 15273
+INFO 2024-09-28 23:11:42,292 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:11:42,515 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-28 23:11:46,383 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:47,728 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:48,441 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:49,162 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:49,647 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:50,096 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:50,527 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:51,004 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:51,225 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:51,402 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:51,583 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:51,748 basehttp "GET /items/7/ HTTP/1.1" 200 14822
+INFO 2024-09-28 23:11:51,917 basehttp "GET /items/7/ HTTP/1.1" 200 14822
+INFO 2024-09-28 23:11:52,095 basehttp "GET /items/7/ HTTP/1.1" 200 14822
+INFO 2024-09-28 23:11:52,238 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:52,414 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:52,593 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:52,764 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:52,941 basehttp "GET /items/7/ HTTP/1.1" 200 14821
+INFO 2024-09-28 23:11:53,141 basehttp "GET /items/7/ HTTP/1.1" 200 14822
+INFO 2024-09-28 23:15:22,930 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-28 23:15:23,515 autoreload Watching for file changes with StatReloader
+WARNING 2024-09-29 09:31:54,888 log Unauthorized: /auth/login/
+WARNING 2024-09-29 09:32:35,893 log Unauthorized: /auth/login/
+WARNING 2024-09-29 09:33:31,466 log Unauthorized: /auth/login/
+WARNING 2024-09-29 09:51:23,898 log Method Not Allowed: /items/
+INFO 2024-09-29 09:52:17,953 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\serializers.py changed, reloading.
+INFO 2024-09-29 09:52:18,856 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 09:52:19,528 basehttp "GET /items/7/ HTTP/1.1" 200 15276
+INFO 2024-09-29 09:52:19,647 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,648 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,653 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,654 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,654 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,658 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,658 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,661 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,663 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,665 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,665 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,665 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,666 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,694 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,727 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-09-29 09:52:19,728 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-09-29 10:00:45,076 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:46,145 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:46,860 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:47,036 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:47,416 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:47,762 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:48,134 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:49,283 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:49,464 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:49,848 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:52,325 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:52,545 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:52,723 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:53,586 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:54,555 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:55,278 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:56,070 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:57,705 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:00:59,826 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:00,804 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:03,694 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:05,960 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:07,945 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:08,351 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:08,769 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:11,482 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:12,209 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:12,860 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:13,482 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:14,108 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:14,643 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:15,210 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:15,934 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:16,518 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:17,125 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:17,645 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:19,293 basehttp "GET /__debug__/render_panel/?store_id=0a5bf90d3ee74451a3c2b5a4352f7fba&panel_id=CachePanel HTTP/1.1" 200 6774
+INFO 2024-09-29 10:01:24,859 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:34,746 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:38,478 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:41,252 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:01:43,382 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:02:00,353 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:03:36,811 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-29 10:03:37,837 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:03:57,894 basehttp "GET /items/4/ HTTP/1.1" 200 15275
+INFO 2024-09-29 10:04:00,372 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:02,088 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:20,952 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:21,371 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-09-29 10:04:21,376 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-09-29 10:04:21,381 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-09-29 10:04:21,382 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 11815
+INFO 2024-09-29 10:04:21,386 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-09-29 10:04:21,388 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-09-29 10:04:21,390 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-09-29 10:04:21,394 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-09-29 10:04:21,397 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 12528
+INFO 2024-09-29 10:04:21,399 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-09-29 10:04:21,405 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-09-29 10:04:21,413 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-09-29 10:04:21,415 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-09-29 10:04:21,432 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-09-29 10:04:21,450 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-09-29 10:04:21,454 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4479
+WARNING 2024-09-29 10:04:21,564 log Not Found: /favicon.ico
+WARNING 2024-09-29 10:04:21,565 basehttp "GET /favicon.ico HTTP/1.1" 404 9812
+INFO 2024-09-29 10:04:23,538 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:25,462 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:27,704 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:28,426 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:31,540 views All Values are getting
+INFO 2024-09-29 10:04:31,571 basehttp "GET /items/post-list/ HTTP/1.1" 200 12992
+INFO 2024-09-29 10:04:34,416 views All Values are getting
+INFO 2024-09-29 10:04:34,440 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:04:35,427 views All Values are getting
+INFO 2024-09-29 10:04:35,449 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:04:36,178 views All Values are getting
+INFO 2024-09-29 10:04:36,200 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:04:36,850 views All Values are getting
+INFO 2024-09-29 10:04:36,872 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:04:38,228 views All Values are getting
+INFO 2024-09-29 10:04:38,250 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:04:41,167 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:43,349 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:45,969 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:46,601 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:46,835 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:47,117 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:47,497 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:47,818 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:48,214 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:48,559 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:48,909 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:49,277 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:49,652 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:50,022 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:50,394 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:50,755 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:51,126 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:52,100 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:54,104 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:55,016 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:04:56,027 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:10,341 basehttp "GET /items/5 HTTP/1.1" 301 0
+WARNING 2024-09-29 10:05:10,355 views object are not getting
+WARNING 2024-09-29 10:05:10,387 log Not Found: /items/5/
+WARNING 2024-09-29 10:05:10,389 basehttp "GET /items/5/ HTTP/1.1" 404 15172
+WARNING 2024-09-29 10:05:15,243 views object are not getting
+WARNING 2024-09-29 10:05:15,265 log Not Found: /items/5/
+WARNING 2024-09-29 10:05:15,266 basehttp "GET /items/5/ HTTP/1.1" 404 15172
+WARNING 2024-09-29 10:05:17,718 views object are not getting
+WARNING 2024-09-29 10:05:17,739 log Not Found: /items/5/
+WARNING 2024-09-29 10:05:17,741 basehttp "GET /items/5/ HTTP/1.1" 404 15172
+INFO 2024-09-29 10:05:19,005 basehttp "GET /items/8 HTTP/1.1" 301 0
+WARNING 2024-09-29 10:05:19,026 views object are not getting
+WARNING 2024-09-29 10:05:19,058 log Not Found: /items/8/
+WARNING 2024-09-29 10:05:19,059 basehttp "GET /items/8/ HTTP/1.1" 404 15172
+INFO 2024-09-29 10:05:22,560 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:26,566 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:27,600 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:28,405 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:29,016 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:29,540 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:29,965 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:30,310 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:30,727 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:31,102 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:31,532 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:31,936 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:32,329 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:32,682 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:33,067 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:33,431 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:33,824 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:34,229 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:34,606 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:35,150 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:35,639 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:36,084 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:36,455 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:36,804 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:37,167 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:37,505 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:37,880 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:39,588 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:40,392 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:41,643 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:42,399 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:42,918 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:43,274 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:43,630 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:43,967 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:45,362 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:05:49,490 views All Values are getting
+INFO 2024-09-29 10:05:49,513 basehttp "GET /items/post-list/ HTTP/1.1" 200 12991
+INFO 2024-09-29 10:05:51,593 views All Values are getting
+INFO 2024-09-29 10:05:51,615 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:05:53,835 views All Values are getting
+INFO 2024-09-29 10:05:53,854 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:05:54,530 views All Values are getting
+INFO 2024-09-29 10:05:54,553 basehttp "GET /items/post-list/ HTTP/1.1" 200 12994
+INFO 2024-09-29 10:06:01,324 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:06:03,549 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:06:05,196 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:07:27,142 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:07:29,066 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:07:29,628 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:07:31,271 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:07:33,368 basehttp "GET /items/7/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:08:05,693 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-29 10:08:06,766 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:08:09,316 basehttp "GET /items/7/ HTTP/1.1" 200 15275
+INFO 2024-09-29 10:08:11,111 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:13,294 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:13,490 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:13,700 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:14,470 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:18,474 basehttp "GET /items/4/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:08:23,770 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:25,120 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:08:26,859 basehttp "GET /items/4/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:12:19,214 basehttp "GET /items/6/ HTTP/1.1" 200 15274
+INFO 2024-09-29 10:12:21,380 basehttp "GET /items/6/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:12:22,238 basehttp "GET /items/6/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:12:22,868 basehttp "GET /items/6/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:12:31,066 basehttp "GET /items/7/ HTTP/1.1" 200 15277
+INFO 2024-09-29 10:29:44,002 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-29 10:29:44,995 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:29:46,595 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-29 10:29:47,599 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 11:49:57,780 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-29 11:49:58,755 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 12:03:09,223 autoreload C:\Users\mithu\Desktop\imsystem\ims\ims\settings.py changed, reloading.
+INFO 2024-09-29 12:03:10,219 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 12:47:12,376 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-29 12:47:13,417 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 12:48:05,239 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-29 12:48:06,175 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 12:48:32,531 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-29 12:48:33,429 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 12:49:39,098 autoreload C:\Users\mithu\Desktop\imsystem\ims\accounts\views.py changed, reloading.
+INFO 2024-09-29 12:49:40,039 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 14:38:37,772 autoreload C:\Users\mithu\Desktop\imsystem\ims\items\views.py changed, reloading.
+INFO 2024-09-29 14:38:43,021 autoreload Watching for file changes with StatReloader
