@@ -57,8 +57,8 @@ REST_FRAMEWORK = {
    Testing
    "Authorization: Token AUTH_TOKEN" 
     POST {"name": "test_name", "description": "description_test", "quantity": quantity_test} http://127.0.0.1:8000/items/ 
-    GET Replace id with items id http://127.0.0.1:8000/items/<id>/
-    PUT Replace id with items id http://127.0.0.1:8000/items/<id>/
-    DELETE Replace id with items id http://127.0.0.1:8000/items/<id>/
+    GET Replace id with items id http://127.0.0.1:8000/items/id/
+    PUT Replace id with items id http://127.0.0.1:8000/items/id/
+    DELETE Replace id with items id http://127.0.0.1:8000/items/id/
 
 
